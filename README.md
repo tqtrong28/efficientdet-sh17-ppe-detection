@@ -1,6 +1,6 @@
 # EfficientDet-D0 Object Detection on SH17
 
-This project experiments with **EfficientDet-D0** on the **SH17 object detection dataset**.  
+This project experiments with **EfficientDet-D0** on the **SH17 object detection dataset**. Link dataset : https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection
 The goal is to investigate whether a lightweight EfficientDet model can be adapted to a PPE and human-safety detection task.
 
 The experiment does not aim to directly reproduce the original YOLO-based SH17 benchmark. Instead, it focuses on evaluating how different EfficientDet-D0 training strategies affect detection performance, especially under class imbalance and small-object detection challenges.
